@@ -14,6 +14,8 @@ import warnings
 import sklearn.exceptions
 warnings.filterwarnings("ignore", category=sklearn.exceptions.UndefinedMetricWarning)
 
+def get_vars_by_name(names):
+    return [v for v in tf.global_variables() if v.name in names]
 
 def train():
     with tf.device('/cpu:0'):
@@ -45,12 +47,14 @@ def train():
     y_train, y_dev = y_shuffled[:dev_sample_index], y_shuffled[dev_sample_index:]
     print("Train/Dev split: {:d}/{:d}\n".format(len(y_train), len(y_dev)))
 
-    with tf.Graph().as_default():
+    graph = tf.Graph()
+    with graph.as_default():
         session_conf = tf.ConfigProto(
             allow_soft_placement=FLAGS.allow_soft_placement,
             log_device_placement=FLAGS.log_device_placement)
         session_conf.gpu_options.allow_growth = FLAGS.gpu_allow_growth
         sess = tf.Session(config=session_conf)
+        
         with sess.as_default():
             model = AttLSTM(
                 sequence_length=x_train.shape[1],
@@ -91,20 +95,52 @@ def train():
             checkpoint_prefix = os.path.join(checkpoint_dir, "model")
             if not os.path.exists(checkpoint_dir):
                 os.makedirs(checkpoint_dir)
-            saver = tf.train.Saver(tf.global_variables(), max_to_keep=FLAGS.num_checkpoints)
+
+            checkpoint_file = tf.train.latest_checkpoint(FLAGS.checkpoint_dir)
+            sess.run(tf.global_variables_initializer())
 
             # Write vocabulary
             vocab_processor.save(os.path.join(out_dir, "vocab"))
 
             # Initialize all variables
-            sess.run(tf.global_variables_initializer())
-
+            if not FLAGS.transfer_learn:
+              saver = tf.train.Saver(var_list=get_vars_by_name(['bi-lstm/bidirectional_rnn/fw/lstm_cell/kernel:0',
+                'bi-lstm/bidirectional_rnn/fw/lstm_cell/bias:0', 'bi-lstm/bidirectional_rnn/bw/lstm_cell/kernel:0',
+                'bi-lstm/bidirectional_rnn/bw/lstm_cell/bias:0', 'attention/u_omega:0', 'output/dense/kernel:0',
+                'output/dense/bias:0']))
+            else:
+              saver = tf.train.Saver()
+           
+            print(checkpoint_file)
+            print("---RESTORING---")
             # Pre-trained word2vec
             if FLAGS.embedding_path:
                 pretrain_W = utils.load_glove(FLAGS.embedding_path, FLAGS.embedding_dim, vocab_processor)
                 sess.run(model.W_text.assign(pretrain_W))
                 print("Success to load pre-trained word2vec model!\n")
 
+            if FLAGS.transfer_learn:
+              saver.restore(sess, checkpoint_file)
+              saver = tf.train.Saver(var_list=get_vars_by_name(['bi-lstm/bidirectional_rnn/fw/lstm_cell/kernel:0',
+                'bi-lstm/bidirectional_rnn/fw/lstm_cell/bias:0', 'bi-lstm/bidirectional_rnn/bw/lstm_cell/kernel:0',
+                'bi-lstm/bidirectional_rnn/bw/lstm_cell/bias:0', 'attention/u_omega:0', 'output/dense/kernel:0',
+                'output/dense/bias:0', 'word-embeddings/W_text:0']))
+              all_vars = tf.trainable_variables()
+              print(all_vars)
+              for i in range(len(all_vars)):
+                  name = all_vars[i].name
+                  print('name', name)
+                  values = sess.run(name)
+                  
+                  print('shape', values.shape)
+
+              input_text = graph.get_operation_by_name("input_text").outputs[0]
+              input_y = graph.get_operation_by_name("input_y").outputs[0]
+              emb_dropout_keep_prob = graph.get_operation_by_name("emb_dropout_keep_prob").outputs[0]
+              rnn_dropout_keep_prob = graph.get_operation_by_name("rnn_dropout_keep_prob").outputs[0]
+              dropout_keep_prob = graph.get_operation_by_name("dropout_keep_prob").outputs[0]
+              
+            
             # Generate batches
             batches = data_helpers.batch_iter(list(zip(x_train, y_train)), FLAGS.batch_size, FLAGS.num_epochs)
             # Training loop. For each batch...
@@ -112,13 +148,23 @@ def train():
             for batch in batches:
                 x_batch, y_batch = zip(*batch)
                 # Train
-                feed_dict = {
-                    model.input_text: x_batch,
-                    model.input_y: y_batch,
-                    model.emb_dropout_keep_prob: FLAGS.emb_dropout_keep_prob,
-                    model.rnn_dropout_keep_prob: FLAGS.rnn_dropout_keep_prob,
-                    model.dropout_keep_prob: FLAGS.dropout_keep_prob
-                }
+                if FLAGS.transfer_learn:
+                  feed_dict = {
+                      input_text: x_batch,
+                      input_y: y_batch,
+                      emb_dropout_keep_prob: FLAGS.emb_dropout_keep_prob,
+                      rnn_dropout_keep_prob: FLAGS.rnn_dropout_keep_prob,
+                      dropout_keep_prob: FLAGS.dropout_keep_prob
+                  }
+                else:
+                  feed_dict = {
+                      model.input_text: x_batch,
+                      model.input_y: y_batch,
+                      model.emb_dropout_keep_prob: FLAGS.emb_dropout_keep_prob,
+                      model.rnn_dropout_keep_prob: FLAGS.rnn_dropout_keep_prob,
+                      model.dropout_keep_prob: FLAGS.dropout_keep_prob
+                  }
+
                 _, step, summaries, loss, accuracy = sess.run(
                     [train_op, global_step, train_summary_op, model.loss, model.accuracy], feed_dict)
                 train_summary_writer.add_summary(summaries, step)
@@ -150,8 +196,9 @@ def train():
                     # Model checkpoint
                     if best_f1 < f1:
                         best_f1 = f1
-                        path = saver.save(sess, checkpoint_prefix + "-{:.3g}".format(best_f1), global_step=step)
+                        path = saver.save(sess, checkpoint_prefix+"-{:.3g}".format(best_f1), global_step=step)
                         print("Saved model checkpoint to {}\n".format(path))
+                        
 
 
 def main(_):

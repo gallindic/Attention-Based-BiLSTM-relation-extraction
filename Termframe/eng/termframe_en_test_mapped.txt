@@ -1,0 +1,128 @@
+600	shake, <e1>shakehole</e1>: Term used mainly by cavers to indicate a <e2>doline</e2>, especially one formed by subsidence.
+Cause-Effect(e1,e2)
+Comment: 
+
+601	<e1>shake</e1>, shakehole: Term used mainly by cavers to indicate a <e2>doline</e2>, especially one formed by subsidence.
+Cause-Effect(e1,e2)
+Comment: 
+
+602	<e1>shawl</e1>: Simple triangular-shaped <e2>curtain</e2>, sheet. A thin coating of calcium carbonate formed on walls, shelves, benches, and terraces by trickling water.
+Cause-Effect(e1,e2) Entity-Origin(e1,e2)
+Comment: 
+
+603	<e1>shield</e1>: A disk-shaped <e2>speleothem</e2> standing edgewise at a high angle.
+Entity-Origin(e1,e2)
+Comment: 
+
+606	<e1>sinkhole plain</e1>: <e2>Plain</e2> on which most of the local relief is due to closed depressions and nearly all drainage is subterranean.
+Content-Container(e1,e2) Component-Whole(e1,e2) Member-Collection(e1,e2)
+Comment: 
+
+608	<e1>sinter</e1>: A <e2>mineral precipitate</e2> deposited by a mineral spring, either hot or cold. Siliceous sinter, consisting of silica, is also called geyserite and fiorite; calcareous sinter, consisting of calcium carbonate, is also called tufa, travertine, and onyx marble.
+Cause-Effect(e1,e2)
+Comment: 
+
+609	<e1>siphon</e1>: In speleology, a <e2>cave passage</e2> in which the ceiling dips below a water surface. water
+Entity-Origin(e1,e2)
+Comment: 
+
+610	<e1>slump pit</e1>: A <e2>hollow</e2> in the clay fill of a cave floor caused by erosion beneath the fill.
+Cause-Effect(e1,e2) Entity-Origin(e1,e2)
+Comment: 
+
+611	<e1>solution pan</e1>: Shallow <e2>solution basin</e2> formed on bare limestone, generally characterized by flat bottom and overhanging sides. Synonyms: Kamenitza; Opferkessel; panhole; tinajita.
+Cause-Effect(e1,e2)
+Comment: 
+
+612	solution pan: Shallow <e1>solution basin</e1> formed on bare limestone, generally characterized by flat bottom and overhanging sides. Synonyms: Kamenitza; Opferkessel; panhole; <e2>tinajita</e2>.
+Cause-Effect(e2,e1)
+Comment: 
+
+613	solution pan: Shallow <e1>solution basin</e1> formed on bare limestone, generally characterized by flat bottom and overhanging sides. Synonyms: Kamenitza; Opferkessel; <e2>panhole</e2>; tinajita.
+Cause-Effect(e2,e1)
+Comment: 
+
+614	solution pan: Shallow <e1>solution basin</e1> formed on bare limestone, generally characterized by flat bottom and overhanging sides. Synonyms: <e2>Kamenitza</e2>; Opferkessel; panhole; tinajita.
+Cause-Effect(e2,e1)
+Comment: 
+
+615	solution pan: Shallow <e1>solution basin</e1> formed on bare limestone, generally characterized by flat bottom and overhanging sides. Synonyms: Kamenitza; <e2>Opferkessel</e2>; panhole; tinajita.
+Cause-Effect(e2,e1)
+Comment: 
+
+616	<e1>solution pipe</e1>: A vertical cylindrical <e2>hole</e2> attributable to solution, often without surface expression, filled with debris, such as sand, clay, rock chips, and bones. Synonym: sand pipe. See also geologic organ.
+Cause-Effect(e1,e2)
+Comment: 
+
+618	<e1>speleogen</e1>: A secondary <e2>cave structure</e2> formed by dissolving, such as a dome pit or a scallop. cave
+Cause-Effect(e1,e2) Content-Container(e1,e2) Component-Whole(e1,e2) Member-Collection(e1,e2)
+Comment: 
+
+620	<e1>speleothem</e1>: A secondary <e2>mineral deposit</e2> formed in caves, such as stalactite or stalagmite. Synonym: cave formation.
+Entity-Origin(e1,e2) Content-Container(e1,e2) Component-Whole(e1,e2) Member-Collection(e1,e2)
+Comment: 
+
+621	<e1>Spitzkegelkarst</e1>: Tropical <e2>karst topography</e2> containing sharply pointed residual limestone hills. sharply pointed
+Content-Container(e1,e2) Component-Whole(e1,e2) Member-Collection(e1,e2)
+Comment: 
+
+623	<e1>spring</e1>: Any natural <e2>discharge of water</e2> from rock or soil onto the surface of the land or into a body of surface water.
+Entity-Origin(e1,e2)
+Comment: 
+
+627	<e1>struga</e1>: A <e2>corridor</e2> formed along a bedding plane in karst country.
+Entity-Origin(e1,e2)
+Comment: 
+
+628	<e1>subjacent karst</e1>: <e2>Karst landscape</e2> in noncarbonate rocks due to presence of karstified rocks beneath the surface formation.
+Cause-Effect(e1,e2)
+Comment: 
+
+629	<e1>submarine spring</e1>: Large <e2>offshore emergence</e2>, generally from cavernous limestone, but in some areas from beds of lava.
+Entity-Origin(e1,e2)
+Comment: 
+
+630	<e1>subterranean river</e1>: <e2>Underground stream</e2> of flowing water, not necessarily large.
+Entity-Origin(e1,e2) Content-Container(e1,e2) Component-Whole(e1,e2) Member-Collection(e1,e2)
+Comment: 
+
+631	<e1>syngenetic karst</e1>: <e2>Karst</e2> developed in eolian calcarenite where lithification of dune sands and productior of karst phenomena occurred simultaneously.
+Entity-Origin(e1,e2)
+Comment: 
+
+635	<e1>tourelle</e1>: A little <e2>tower</e2>; applied to small flat-topped buttes of limestone in karst areas. Contrasted with pitons, which have pointed tops, and with coupoles, which have rounded tops.
+Entity-Origin(e1,e2)
+Comment: 
+
+640	<e1>uvala</e1>: Large closed <e2>depression</e2> formed by the coalesence of several dolines; compound doline. depression
+Cause-Effect(e1,e2)
+Comment: 
+
+641	<e1>vadose water</e1>: <e2>Water</e2> ir the zone of aeration; water above the zone of saturation. aeration saturation
+Entity-Origin(e1,e2)
+Comment: 
+
+643	<e1>wall slab</e1>: A thin but large <e2>block of rock</e2>, which has fallen outward from the wall of a cave in limestone in which the dip is nearly vertical.
+Cause-Effect(e1,e2)
+Comment: 
+
+644	<e1>well</e1>: A <e2>shaft or hole</e2> sunk into the earth to obtain water, oil, gas, or minerals.
+Entity-Origin(e1,e2)
+Comment: 
+
+645	<e1>well</e1>: A deep vertical rounded <e2>hole or shaft</e2> in the floor of a cave or at the bottom of a closed depression. deep vertical rounded
+Entity-Origin(e1,e2)
+Comment: 
+
+646	<e1>window</e1>: In speleology, a <e2>natural opening</e2> above the floor of a passage or a room, giving access to an adjoining cavity or to the surface; larger and less symmetrical than a porthole.
+Cause-Effect(e1,e2) Entity-Origin(e1,e2)
+Comment: 
+
+647	<e1>window</e1>: The <e2>opening</e2> under the arch of a small natural bridge. small natural
+Cause-Effect(e1,e2) Entity-Origin(e1,e2)
+Comment: 
+
+648	<e1>zanjon</e1>: In Puerto Pico, <e2>solution trench</e2> in limestone. Zanjones range from a few centimeters to about 3 meters in width and from about 1 to 4 meters in depth. Apparently they form by the widening and deepening of joints by solution.
+Cause-Effect(e1,e2)
+Comment: 
+

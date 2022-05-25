@@ -1,0 +1,1076 @@
+1	<e1>Aragonite</e1> is a metastable <e2>modification of CaCO3</e2>, which sometimes forms in seawater and transforms into calcite during diagenesis.
+Cause-Effect(e1,e2)
+Comment: 
+
+3	The term <e1>bedding-plane cave</e1> is strictly applied to a <e2>passage</e2> that has not enlarged by growth into a major tube or canyon, but has remained almost entirely on the bedding plane.
+Entity-Origin(e1,e2)
+Comment: 
+
+5	<e1>Glacial cirques</e1> have been transformed by solution into closed depressions, and are called <e2>cirque-dolines</e2>.
+Cause-Effect(e2,e1)
+Comment: 
+
+9	<e1>Karst</e1> formed by the influence surface river flow could be designated by the term of <e2>contact karst</e2>.
+Cause-Effect(e2,e1)
+Comment: 
+
+14	The <e1>epikarst</e1> is defined as the uppermost <e2>zone of exposed karst rock</e2>, in which permeability due to fissuring and karstification is higher and more uniformly distributed than in the rock mass below.
+Entity-Origin(e1,e2)
+Comment: 
+
+15	The <e1>highly corroded zone</e1> near the surface is termed the epikarst or <e2>subcutaneous zone</e2>.
+Entity-Origin(e2,e1)
+Comment: 
+
+16	The <e1>highly corroded zone</e1> near the surface is termed the <e2>epikarst</e2> or subcutaneous zone.
+Entity-Origin(e2,e1)
+Comment: 
+
+18	The <e1>exokarstic storey</e1> represents the <e2>upper part of the karstosphere</e2> between the topographic surface and a depth of 0.5 to 7.0 km.
+Entity-Origin(e1,e2)
+Comment: 
+
+19	In structural geology, <e1>faults</e1> are defined as <e2>fractures</e2> in the rocks of the earth's crust along which movement has occurred or still occurs (Davis & Reynolds 1996).
+Entity-Origin(e1,e2)
+Comment: 
+
+23	<e1>Kluftkarren</e1> or grikes are merely the visible surface expression of the <e2>fissures of a karstifiable rock</e2>; as such, they are a significant component of the epikarst, or the outer skin of the whole karst system.
+Entity-Origin(e1,e2)
+Comment: 
+
+24	Kluftkarren or <e1>grikes</e1> are merely the visible surface expression of the <e2>fissures of a karstifiable rock</e2>; as such, they are a significant component of the epikarst, or the outer skin of the whole karst system.
+Entity-Origin(e1,e2)
+Comment: 
+
+25	<e1>Hypogene karst</e1> is defined as <e2>the formation of caves</e2> by water that recharges the soluble formation from below, driven by hydrostatic pressure or other sources of energy, independent of the recharge from the overlying or immediately adjacent surface (Ford, 2000). caves
+Cause-Effect(e1,e2)
+Comment: 
+
+27	<e1>Karren</e1> is a common term used for <e2>dissolution features</e2> on exposed soluble rock surfaces (Gines 2009). dissolution
+Entity-Origin(e1,e2)
+Comment: 
+
+30	The term <e1>karst</e1> describes a distinctive <e2>topography</e2> that indicates dissolution (also called chemical solution) of underlying soluble rocks by surface water or ground water.
+Cause-Effect(e1,e2)
+Comment: 
+
+31	The term <e1>karst</e1> applies to a distinctive <e2>type of landscape</e2> that develops from the dissolving action of water on soluble bedrock, primarily limestone and marble but also dolostone, gypsum and halite.
+Cause-Effect(e1,e2)
+Comment: 
+
+33	<e1>Karst</e1> is the term applied to <e2>terrains</e2> underlain by soluble rock: mainly limestone, dolomite and gypsum.
+Entity-Origin(e1,e2)
+Comment: 
+
+34	<e1>Karst</e1> is a <e2>landscape</e2> created by the dissolution of carbonate rocks, although similar features can also be found in volcanic and permafrost areas.
+Cause-Effect(e1,e2)
+Comment: 
+
+39	<e1>Karst topography</e1> is a <e2>landscape</e2> shaped by the dissolution of soluble bedrock. bedrock
+Cause-Effect(e1,e2)
+Comment: 
+
+41	<e1>Short steep-sided valleys</e1> caused by collapse of an underground cavern and exposing the river to the surface are called <e2>karst windows</e2>.
+Cause-Effect(e2,e1)
+Comment: 
+
+43	A <e1>konta</e1> is a <e2>closed karst depression</e2>, like a doline, that has been remodelled during Pleistocene glaciation.
+Cause-Effect(e1,e2)
+Comment: 
+
+44	A <e1>losing streamflow</e1> is a surface <e2>stream</e2> that contributes water to the karst groundwater system in localized areas.
+Entity-Origin(e1,e2)
+Comment: 
+
+54	The term <e1>secondary porosity</e1> is used for the <e2>spaces</e2> created in carbonate rocks in the post-petrification period. in the post-petrification period
+Entity-Origin(e1,e2)
+Comment: 
+
+55	<e1>Gravitational water</e1> is the <e2>water</e2>, which due to gravity, penetrates and flows into the underground system.
+Cause-Effect(e1,e2)
+Comment: 
+
+67	<e1>Subsidence dolines</e1> are <e2>closed depressions</e2> caused by the subsiding of an area.
+Cause-Effect(e1,e2)
+Comment: 
+
+68	<e1>Intersection dolines</e1> are <e2>depressions</e2> formed when an old cave system, partially or totally filled with sediments, is cut by the topographic surface as a consequence of the lowering of such a surface by chemical erosion.
+Cause-Effect(e1,e2)
+Comment: 
+
+69	A <e1>compound hollow</e1> is a <e2>form</e2> that originated from the fusion of simpler forms.
+Cause-Effect(e1,e2)
+Comment: 
+
+70	A <e1>polygenetic sink</e1> is a <e2>closed depression</e2> that clearly evolved through both the karst process and another morphogenetic process.
+Cause-Effect(e1,e2)
+Comment: 
+
+72	<e1>Poljes</e1> are the largest <e2>closed depressions</e2> observed in the karst terrains. largest closed depressions
+Entity-Origin(e1,e2)
+Comment: 
+
+76	The precise scientific name is <e1>littoral cave</e1>, meaning a <e2>cave</e2> formed within the range of tides.
+Entity-Origin(e1,e2)
+Comment: 
+
+78	The <e1>flank margin caves</e1> are a <e2>series of oval rooms</e2> from pore size up to large chambers, which tend to be extensive in the horizontal direction, but limited in the vertical direction, a result of developing in the thinning margin of the freshwater lens (Fig.
+Cause-Effect(e1,e2)
+Comment: 
+
+82	<e1>Collapse dolines</e1> are common <e2>features</e2> of the Dinaric karst and are especially numerous above known large caves.
+Entity-Origin(e1,e2)
+Comment: 
+
+83	<e1>Karst poljes</e1> are large <e2>karst depressions</e2> with flat bottoms, which are the result of solutional processes and karst water drainage.
+Cause-Effect(e1,e2)
+Comment: 
+
+84	<e1>Remnants of old river streams</e1> are <e2>dry valleys</e2>, which lack an active watercourse over all or parts of their length for at least part of the year, because water is lost in karst or is in a much lower position.
+Cause-Effect(e2,e1)
+Comment: 
+
+86	The <e1>halocline</e1> is a <e2>layer</e2> where the salinity abruptly changes (sometimes from polyhaline to nearly limnic).
+Entity-Origin(e1,e2)
+Comment: 
+
+87	<e1>Glaciers</e1> are <e2>sedimentary formations of seasonal snow</e2> that accumulates on the upper elevations of a glacier and buries the previous season ’ s accumulation.
+Entity-Origin(e1,e2)
+Comment: 
+
+88	<e1>Denuded karst</e1> is <e2>former intrastratal karst</e2> that develops where the soluble rock has been almost completely exposed from beneath the cover, but with substantial inheritance of solution porosity from the preceding stages of intrastratal development.
+Cause-Effect(e1,e2)
+Comment: 
+
+91	In porous media aquifers, <e1>pores</e1> between mineral grains are <e2>the open spaces</e2> available for the storage of water.
+Entity-Origin(e1,e2)
+Comment: 
+
+97	<e1>Longitudinal rills</e1> / flutes are <e2>suites of vertical grooves</e2> that develop where a water film flows down a high angle rock face.
+Cause-Effect(e1,e2)
+Comment: 
+
+98	Longitudinal rills / <e1>flutes</e1> are <e2>suites of vertical grooves</e2> that develop where a water film flows down a high angle rock face.
+Cause-Effect(e1,e2)
+Comment: 
+
+99	<e1>Dissolutional potholes</e1> are sharp-edged, rounded-interior <e2>basins</e2> in stream beds.
+Entity-Origin(e1,e2)
+Comment: 
+
+100	The term <e1>anastamose</e1> refers to a <e2>reticulate pattern</e2> (such as in the veins of a leaf); in caves it applies to a pattern of interweaving channels.
+Entity-Origin(e1,e2)
+Comment: 
+
+101	<e1>Pendants</e1> are <e2>positive forms</e2> hanging from passage ceilings, typically B10 — 100 cm in dimension.
+Entity-Origin(e1,e2)
+Comment: 
+
+102	<e1>Cupolas</e1> are characteristic <e2>features of thermal caves</e2>.
+Entity-Origin(e1,e2)
+Comment: 
+
+103	A <e1>cutter</e1> is a deep <e2>grike</e2> that has formed under an acidic soil cover, often with a complex curved cross section, some cavernous karren, and remnant rounded pinnacles.
+Entity-Origin(e1,e2)
+Comment: 
+
+106	<e1>Caves</e1> are natural subterranean cavities, fissures, and <e2>fragments of conduit systems</e2> that are accessible to human exploration. subterranean
+Entity-Origin(e1,e2)
+Comment: 
+
+110	<e1>Knickpoints</e1> are sudden <e2>changes in the gradient</e2> of a river ’ s long profile, such as rapids or waterfalls, and may form as a response to a sudden drop in the water table.
+Cause-Effect(e1,e2)
+Comment: 
+
+111	A <e1>room</e1> is a type of <e2>passage</e2> that is wide relative to its length; rooms often form where passages intersect and are circular, oval, or irregular in shape.
+Entity-Origin(e1,e2)
+Comment: 
+
+113	The term <e1>flute</e1> has been used for the elongate, nearly <e2>parallel crested forms</e2> seen in some cave passages.
+Entity-Origin(e1,e2)
+Comment: 
+
+114	The result is the so-called <e1>lampenflora</e1>, that is, <e2>green plants</e2> (generally algae, fern, moss) developing on cave walls or formations close to a light source.
+Entity-Origin(e1,e2)
+Comment: 
+
+116	<e1>Allogeneic waters</e1> are defined as <e2>stream flow</e2> derived from nonlocal sources. derived from nonlocal sources
+Cause-Effect(e1,e2)
+Comment: 
+
+122	Fossil <e1>vertically extended collapse features</e1> known as breccia pipes, collapse columns, or geologic organs, and also termed <e2>vertical through structures</e2>, are a common by-product of hypogene speleogenesis in a variety of geological settings.
+Cause-Effect(e2,e1)
+Comment: 
+
+123	<e1>Speleothems</e1> are <e2>deposits</e2> of secondary minerals (such as calcite) that form on the ceilings, walls, and floors of caves.
+Entity-Origin(e1,e2)
+Comment: 
+
+125	<e1>Helictites</e1> are an erratic <e2>stalactite-like form</e2> that occurs when seepage rates are too slow for complete drops to form.
+Cause-Effect(e1,e2)
+Comment: 
+
+129	<e1>Soda straws</e1> are <e2>speleothems</e2> generated by axial feeding, and characterized by a central canal with constant diameter and by a wall structure that is controlled by geometric selection during growth on the meniscus of a drip.
+Cause-Effect(e1,e2)
+Comment: 
+
+130	<e1>Stalagmites</e1> are convex <e2>deposits</e2> that grow upward, commonly fed by an overhanging stalactite, and show flat, rounded, or slightly hollow tops, but not a central canal.
+Cause-Effect(e1,e2)
+Comment: 
+
+131	Also known as ponors, <e1>swallow holes</e1> are the <e2>point</e2> at which a sinking stream heads underground.
+Entity-Origin(e1,e2)
+Comment: 
+
+132	Also known as <e1>ponors</e1>, swallow holes are the <e2>point</e2> at which a sinking stream heads underground.
+Entity-Origin(e1,e2)
+Comment: 
+
+137	<e1>Karst-like landforms</e1> produced by processes other than dissolution or corrosion-induced subsidence and collapse are known as <e2>pseudokarst</e2>.
+Cause-Effect(e2,e1)
+Comment: 
+
+138	<e1>Thermokarst</e1> is a related term applied to <e2>topographic depressions</e2> resulting from thawing of ground ice. ground ice
+Cause-Effect(e1,e2)
+Comment: 
+
+139	<e1>Holokarst</e1> is pure <e2>karst</e2> uninfluenced by other rocks, and is developed on thick limestones extending well below baselevel.
+Entity-Origin(e1,e2)
+Comment: 
+
+146	Shaft-like <e1>depressions</e1> deeply flooded by seawater in low-lying coral islands are known as <e2>blue holes</e2>.
+Entity-Origin(e2,e1)
+Comment: 
+
+149	<e1>Breccia pipes</e1> are common <e2>features</e2> of gypsum karst that are created by progressive stoping above sites of interstratal dissolution.
+Cause-Effect(e1,e2)
+Comment: 
+
+152	<e1>Solution runnels</e1> are normal Hortonian <e2>channels</e2>, heading where sheetflow or wash on a slope breaks down into linear threads.
+Cause-Effect(e1,e2)
+Comment: 
+
+153	<e1>Solution dolines</e1> are a common <e2>feature of karst</e2> in humid areas, yet not all carbonate rocks support them.
+Entity-Origin(e1,e2)
+Comment: 
+
+154	<e1>Pinnacle karst</e1> is a spectacular small-scale <e2>landform</e2> found principally in the humid tropics and subtropics, with the best known examples coming from Gunung Api, Mulu, and Mount Kaijende, New Guinea.
+Entity-Origin(e1,e2)
+Comment: 
+
+156	<e1>Blue holes</e1> are water-filled <e2>vertical openings</e2> in the carbonate rock of the islands, which exhibit complex morphologies, ecologies, and water chemistries.
+Entity-Origin(e1,e2)
+Comment: 
+
+158	<e1>Diagenesis</e1> is a term describing <e2>processes</e2> of compaction and / or cementation of the initially unconsolidated carbonate mud and debris (Moore, 2001). compaction and / or cementation of the initially unconsolidated carbonate mud and debris
+Cause-Effect(e1,e2)
+Comment: 
+
+159	<e1>Dolostone</e1> is a major <e2>product of diagenesis</e2>.
+Cause-Effect(e1,e2)
+Comment: 
+
+162	<e1>Mogotes</e1> are isolated <e2>karst towers</e2> that rise from the blanket sands in the northern section.
+Entity-Origin(e1,e2)
+Comment: 
+
+163	<e1>Fenglin</e1> is an extreme form of <e2>karst</e2> that only develops where dissolution rates, tectonic uplift, and alluviation maintain a critical balance (Zhang, 1980).
+Cause-Effect(e1,e2)
+Comment: 
+
+167	<e1>Fovals</e1> are brown-greyish <e2>formations</e2> that can be found in different positions in the caves, on the floor, or on the rocky walls.
+Entity-Origin(e1,e2)
+Comment: 
+
+170	Autogenic karst aquifers feed <e1>springs</e1> known as <e2>exsurgences</e2>.
+Cause-Effect(e2,e1)
+Comment: 
+
+174	A <e1>paleocave hydrocarbon reservoir</e1> is a <e2>reservoir</e2> where the pore network consists of karst-related cavernous porosity and / or of cave-collapse-related interclast and fracture porosity.
+Cause-Effect(e1,e2)
+Comment: 
+
+175	The <e1>phreatic zone</e1> is the deep <e2>portion of an aquifer</e2> that does not experience exchange with stream water, in contrast to the hyporheic zone.
+Entity-Origin(e1,e2)
+Comment: 
+
+179	<e1>Decantation runnels</e1> are <e2>rills</e2>, which reduce in width and depth downslope because the solvent supply is not directly related to rainfall, but corresponds to overspilling stores of water, such as moss clumps, small snow banks, or soil remnants.
+Cause-Effect(e1,e2)
+Comment: 
+
+181	<e1>Aragonite</e1> is a main speleothem <e2>mineral</e2> in some parts of the cave, often in association with calcite.
+Entity-Origin(e1,e2)
+Comment: 
+
+184	The outstanding <e1>landforms</e1> are <e2>dissolutional corridors</e2> (“ streets ”) in the limestone that follow major vertical fractures created by the doming (Brook & Ford, 1978).
+Cause-Effect(e2,e1)
+Comment: 
+
+185	<e1>Paleokarst</e1> is a worldwide <e2>phenomenon</e2> that is found on all continents, including Antarctica, and in the geological record from the early Proterozoic to the Holocene.
+Entity-Origin(e1,e2)
+Comment: 
+
+188	<e1>Paragenesis</e1> is the term introduced by Renault (1968) to describe the <e2>processes</e2> by which cave genesis within the phreatic zone is modified by influxes of sediment.
+Cause-Effect(e1,e2)
+Comment: 
+
+191	Large allogenic streams penetrate farther into the karst in well-defined valleys before they sink, and they produce <e1>landforms</e1> known as <e2>blind valleys</e2>, because their valleys usually terminate abruptly in a cliff or steep slope.
+Cause-Effect(e2,e1)
+Comment: 
+
+192	A <e1>pre-ponor retention</e1> is a temporary <e2>water accumulation</e2> in the surface depression just above the ponor. in the surface depression just above the ponor
+Entity-Origin(e1,e2)
+Comment: 
+
+193	<e1>Pseudokarstic caves</e1> are <e2>natural underground spaces</e2>, large enough to enter and investigate, extending beyond daylight, and produced by some process other than dissolution.
+Cause-Effect(e1,e2)
+Comment: 
+
+194	<e1>Emanation</e1> is the <e2>net radon production rate</e2> in the rock walls of a cave, or in unconsolidated sediment within the cave, and ultimately depends on the concentration of uranium (which then decays to radium) in the material.
+Cause-Effect(e1,e2)
+Comment: 
+
+196	<e1>Whiting</e1> is a specific category of <e2>fine-grained filler</e2> derived by fine grinding such that > 95% is < 44 µm.
+Cause-Effect(e1,e2)
+Comment: 
+
+198	<e1>Moonmilk</e1> is a <e2>precipitate</e2> that seems to be originated by microbiological reactions.
+Cause-Effect(e1,e2)
+Comment: 
+
+201	<e1>Springs</e1> in autogenic aquifers, which receive the bulk of their recharge from a karst surface, are known as <e2>exsurgences</e2>, and exhibit less variability in discharge and composition.
+Cause-Effect(e2,e1)
+Comment: 
+
+202	<e1>Open anchialine pools</e1> are <e2>coastal pools</e2> connected to the sea by cave corridors.
+Entity-Origin(e1,e2)
+Comment: 
+
+203	<e1>Fungi</e1> are important <e2>decomposers</e2> in caves and produce a variety of extracellular enzymes (lipases, proteinases, and chitinases) that degrade organic detritus. in caves
+Entity-Origin(e1,e2)
+Comment: 
+
+207	<e1>Entrances</e1> are accidental <e2>intersections of the caves</e2> by surface erosion.
+Cause-Effect(e1,e2)
+Comment: 
+
+211	Various names have been ascribed to the towers and the overall landscape: in Chinese, <e1>tower karst</e1> is known as fenglin (<e2>peak forest</e2>) where towers are isolated, and fengcong (peak cluster) where groups of residual hills share a common exposed bedrock base; in Spanish the towers are termed mogotes; in French they are tourelles or pitons; in German Turmkarst; elsewhere they are known as “ haystacks ” and pepinos.
+Entity-Origin(e2,e1)
+Comment: 
+
+212	Various names have been ascribed to the towers and the overall landscape: in Chinese, <e1>tower karst</e1> is known as <e2>fenglin</e2> (peak forest) where towers are isolated, and fengcong (peak cluster) where groups of residual hills share a common exposed bedrock base; in Spanish the towers are termed mogotes; in French they are tourelles or pitons; in German Turmkarst; elsewhere they are known as “ haystacks ” and pepinos.
+Entity-Origin(e2,e1)
+Comment: 
+
+214	<e1>Valleys</e1> are a <e2>feature</e2> of most karst regions, the exceptions ‘ being areas of polygonal karst where the whole surface is pitted by dolines, although even here there may be vestiges of former valley networks.
+Entity-Origin(e1,e2)
+Comment: 
+
+215	<e1>Pocket valleys</e1> (or steepheads) are the reverse of <e2>blind valleys</e2>, since they occur in association with large springs close to the margins of karst areas.
+Entity-Origin(e1,e2)
+Comment: 
+
+216	Pocket valleys (or <e1>steepheads</e1>) are the reverse of <e2>blind valleys</e2>, since they occur in association with large springs close to the margins of karst areas.
+Entity-Origin(e1,e2)
+Comment: 
+
+217	In most references, <e1>uvalas</e1> are defined as <e2>karst depressions</e2> which are formed due to coalescence of several dolines.
+Cause-Effect(e1,e2)
+Comment: 
+
+219	<e1>Paleokarst</e1> is <e2>karst terrain</e2> that has been buried beneath younger sediments.
+Entity-Origin(e1,e2)
+Comment: 
+
+222	<e1>Karren</e1> is a common term used for <e2>dissolution features</e2> on exposed soluble rock surfaces. rock
+Entity-Origin(e1,e2)
+Comment: 
+
+223	<e1>Karst poljes</e1> are the largest flat-floored enclosed <e2>depressions</e2> in karst.
+Entity-Origin(e1,e2)
+Comment: 
+
+226	The <e1>cave roof collapse</e1> is a slow <e2>process</e2> that proceeds by the breaking of the walls and ceiling until equilibrium is established on the slopes of the doline. collapse
+Cause-Effect(e1,e2)
+Comment: 
+
+228	<e1>Shilin</e1> is a type of <e2>pinnacle karst</e2> formed on a plateau of gently dipping limestone (Knez & Slabe 2002).
+Entity-Origin(e1,e2)
+Comment: 
+
+229	<e1>Stone forest</e1> refers to a particular <e2>karst landscape</e2>, composed of a group of densely distributed limestone columns standing on an undulating karst plateau.
+Entity-Origin(e1,e2)
+Comment: 
+
+230	<e1>Karst springs</e1> are <e2>boundaries or ecotones</e2> between the subsurface and the surface environments.
+Entity-Origin(e1,e2)
+Comment: 
+
+231	The <e1>epikarst</e1> is a <e2>permeable boundary</e2> between the surface and subsurface environments and can be conceptualized as the vadose critical zone of epigenic karst systems.
+Entity-Origin(e1,e2)
+Comment: 
+
+234	<e1>Goethite</e1> is a very frequent <e2>mineral</e2> created in the oxidation of various iron minerals, but can also be created as a precipitate in marshes and springs.
+Cause-Effect(e1,e2)
+Comment: 
+
+235	<e1>Lowland</e1> is a <e2>lower karstified section</e2> with gently sloping hills.
+Entity-Origin(e1,e2)
+Comment: 
+
+236	Smaller <e1>fluvial karst forms</e1> (mesoforms) are smaller <e2>dolines</e2> that can be found particularly on flat parts of land and can amount to several 10 per km2.
+Entity-Origin(e1,e2)
+Comment: 
+
+237	Smaller fluvial karst forms (<e1>mesoforms</e1>) are smaller <e2>dolines</e2> that can be found particularly on flat parts of land and can amount to several 10 per km2.
+Entity-Origin(e1,e2)
+Comment: 
+
+238	<e1>Scallops</e1> are <e2>shallow niches</e2>, up to a few cm long, that are shaped by eddies. eddies
+Cause-Effect(e1,e2)
+Comment: 
+
+239	<e1>Lampenflora</e1> is a <e2>complex community of organisms</e2> growing on illuminated areas such as rocky surfaces, sediment and artificial materials around lamps.
+Entity-Origin(e1,e2)
+Comment: 
+
+241	The word epikarst came into widespread use in the 1990s following the definition by Mangin (1973) of an <e1>epikarst aquifer</e1> as a perched saturated <e2>zone</e2> within the superficial part of the karst that stores a part of the infiltrated water (Bakalowicz, 2012).
+Entity-Origin(e1,e2)
+Comment: 
+
+243	<e1>Speleogenesis</e1> (karstic) is a <e2>mass-transfer process</e2>, which critically depends on both, the aggressiveness of groundwater and its circulation (movement).
+Cause-Effect(e1,e2)
+Comment: 
+
+244	<e1>Tafoni geomorphology</e1> designates a <e2>hollow shape</e2> rounded several decimeters to several meters, carved by erosion in the coastal carbonates.
+Cause-Effect(e1,e2)
+Comment: 
+
+245	<e1>Sea caves</e1>, also known as littoral caves, are a type of <e2>cave</e2> formed primarily by wave action.
+Cause-Effect(e1,e2)
+Comment: 
+
+246	Sea caves, also known as <e1>littoral caves</e1>, are a type of <e2>cave</e2> formed primarily by wave action.
+Cause-Effect(e1,e2)
+Comment: 
+
+247	In desert environments, <e1>spring mounds</e1> are <e2>hot beds</e2> of biological activity that, like soils, tend to be zones of high PCO2.
+Entity-Origin(e1,e2)
+Comment: 
+
+251	A <e1>blind valley</e1> is a <e2>gorge</e2> that terminates abruptly at a point where the stream sinks.
+Entity-Origin(e1,e2)
+Comment: 
+
+252	<e1>Ghost rock karstification</e1> is an intermediate <e2>phenomenon</e2>, between karstification stricto sensu and the alteration of fractured rock, for example like in granites, where the action of water occurs only as it filters in through fractures.
+Cause-Effect(e1,e2)
+Comment: 
+
+261	<e1>bedding-plane cave</e1> - a <e2>cavity</e2> developed along a bedding-plane and elongate in cross-section as a result.
+Entity-Origin(e1,e2)
+Comment: 
+
+265	<e1>blowhole</e1> - a <e2>hole</e2> to the surface in the roof of a sea cave through which waves force air and water.
+Entity-Origin(e1,e2)
+Comment: 
+
+270	<e1>canyon</e1> - a deep <e2>valley</e2> with steep to vertical walls; in karst frequently formed by a river rising on impervious rocks outside the karst area.
+Cause-Effect(e1,e2)
+Comment: 
+
+271	<e1>canyon</e1> - a deep, elongated <e2>cavity</e2> cut by running water in the roof or floor of a cave or forming a cave passage.
+Cause-Effect(e1,e2)
+Comment: 
+
+277	<e1>cave pearl</e1> - a smooth, polished and rounded <e2>speleothem</e2> found in shallow hollows into which water drips.
+Entity-Origin(e1,e2)
+Comment: 
+
+278	<e1>cave spring</e1> - a natural <e2>flow of water</e2> from rock or sediment inside a cave.
+Entity-Origin(e1,e2)
+Comment: 
+
+280	<e1>cavern</e1> - a very large <e2>chamber</e2> within a cave.
+Entity-Origin(e1,e2)
+Comment: 
+
+282	<e1>chamber</e1> - the largest order of <e2>cavity</e2> in a cave, with considerable width and length but not necessarily great height.
+Entity-Origin(e1,e2)
+Comment: 
+
+284	<e1>column</e1> - a <e2>speleothem</e2> from floor to ceiling, formed by the growth and joining of a stalactite and a stalagmite, or by the growth of either to meet bedrock.
+Cause-Effect(e1,e2)
+Comment: 
+
+287	<e1>curtain</e1> - a <e2>speleothem</e2> in the form of a wavy or folded sheet, often translucent and resonant, hanging from the roof or wall of a cave.
+Entity-Origin(e1,e2)
+Comment: 
+
+288	<e1>dark zone</e1> - the <e2>part of a cave</e2> which daylight does not reach.
+Entity-Origin(e1,e2)
+Comment: 
+
+290	<e1>doline</e1> - a closed <e2>depression</e2> draining underground in karst, of simple but variable form, e.g., cylindrical, conical, bowl - or dish-shaped. from a few to many hundreds of metres in dimension.
+Entity-Origin(e1,e2)
+Comment: 
+
+295	<e1>dripstone</e1> - a <e2>deposit</e2> formed from drops falling from cave roofs or walls, usually of calcite.
+Cause-Effect(e1,e2)
+Comment: 
+
+301	<e1>exsurgence</e1> - a <e2>spring</e2> fed only by percolation water.
+Cause-Effect(e1,e2)
+Comment: 
+
+302	<e1>fault</e1> - a <e2>fracture</e2> separating two parts of a once continuous cock body with relative movement along the fault plane. along the fault plane
+Entity-Origin(e1,e2)
+Comment: 
+
+304	<e1>fault plane</e1> - a <e2>plane</e2> along which movement of a fault has taken place.
+Cause-Effect(e1,e2)
+Comment: 
+
+308	<e1>glacier cave</e1> - a <e2>cave</e2> formed within or beneath a glacier.
+Entity-Origin(e1,e2)
+Comment: 
+
+310	<e1>gypsum flower</e1> - an elongated and curving <e2>deposit of gypsum</e2> on a cave surface.
+Entity-Origin(e1,e2)
+Comment: 
+
+311	<e1>half-blind valley</e1> - a <e2>blind valley</e2> which overflows its threshold when the streamsink cannot accept all the water at a time of flood.
+Cause-Effect(e1,e2)
+Comment: 
+
+312	<e1>half-tube</e1> - a semi-eylindrical, elongate <e2>recess</e2> in a cave surface, often meandering or anastomosing.
+Entity-Origin(e1,e2)
+Comment: 
+
+320	<e1>keyhole</e1> - a small <e2>passage or opening</e2> in a cave, which is round above and narrow below.
+Entity-Origin(e1,e2)
+Comment: 
+
+324	<e1>meander niche</e1> - a hemispherically roofed <e2>part of a cave</e2> formed by a stream meandering and cutting down at the same time.
+Cause-Effect(e1,e2)
+Comment: 
+
+326	<e1>natural arch</e1> - an <e2>arch of rock</e2> formed by weathering.
+Cause-Effect(e1,e2)
+Comment: 
+
+327	<e1>natural bridge</e1> - a <e2>bridge</e2> of rock spanning a ravine or valley and formed by erosive agents.
+Cause-Effect(e1,e2)
+Comment: 
+
+328	<e1>outflow cave</e1> - a <e2>cave</e2> from which a stream flows or formerly did so and which cannot be followed upstream to the surface.
+Cause-Effect(e1,e2)
+Comment: 
+
+329	<e1>palaeokarst</e1> ' fossil ' karst ' - cave or karst <e2>features</e2> remnant from a previous period of karstification, characterized by the presence of ancient (buried) deposits, as lithified cave fills or breccias.
+Cause-Effect(e1,e2)
+Comment: 
+
+330	<e1>pendulite</e1> - a kind of <e2>stalactite</e2> which has been partly submerged and the submerged part covered with dog-tooth spar to give the appearance of a drumstick.
+Cause-Effect(e1,e2)
+Comment: 
+
+331	<e1>percolation water</e1> - <e2>water</e2> moving mainly downwards through pores, cracks and tight fissures, in the vadose zone.
+Entity-Origin(e1,e2)
+Comment: 
+
+332	<e1>phreatic water</e1> - <e2>water</e2> below the level at which all voids in the rock are completely filled with water.
+Entity-Origin(e1,e2)
+Comment: 
+
+333	<e1>phreatic zone</e1> - <e2>zone</e2> where voids in the rock are completely filled with water.
+Entity-Origin(e1,e2)
+Comment: 
+
+334	<e1>pillar</e1> - a <e2>bedrock column</e2> from roof to floor left by the removal of surrounding rock.
+Cause-Effect(e1,e2)
+Comment: 
+
+336	<e1>plunge pool</e1> - a <e2>swirlhole</e2>, generally of large size, occurring at the foot of a waterfall or rapid, on the surface or underground.
+Entity-Origin(e1,e2)
+Comment: 
+
+337	<e1>polje</e1> - a large <e2>closed depression</e2> draining underground, with a flat floor across which there may be an intermittent or perennial stream and which may be liable to flood and become a lake. the floor makes a sharp break with parts of surrounding slopes. depression stream
+Cause-Effect(e1,e2)
+Comment: 
+
+342	<e1>resurgence</e1> - a <e2>spring</e2> where a stream, which has a course on the surface higher up, reappears at the surface.
+Entity-Origin(e1,e2)
+Comment: 
+
+343	<e1>salt weathering</e1> - <e2>detachment of particles</e2> of various sizes from a rock surface by the growth of crystals from salt solutions.
+Cause-Effect(e1,e2)
+Comment: 
+
+344	<e1>sea cave</e1> - a <e2>cave</e2> in present-day or emerged sea diffs, formed by wave attack or solution.
+Cause-Effect(e1,e2)
+Comment: 
+
+350	<e1>solution flute</e1> - a <e2>solution hollow</e2> running down the maximum slope of the rock, of uniform fingertip width and depth, with sharp ribs between it and its neighbours.
+Entity-Origin(e1,e2)
+Comment: 
+
+352	<e1>solution runnel</e1> - a <e2>solution hollow</e2> running down the maximum slope of the rock, larger than a solution flute and increasing in depth and width down its length.
+Entity-Origin(e1,e2)
+Comment: 
+
+354	<e1>speleothem</e1> - a secondary <e2>mineral deposit</e2> formed in caves, most commonly calcite.
+Entity-Origin(e1,e2)
+Comment: 
+
+355	<e1>splash cup</e1> - a <e2>shallow cavity</e2> in the top of a stalagmite.
+Entity-Origin(e1,e2)
+Comment: 
+
+357	<e1>stalagmite</e1> - <e2>a speleothem</e2> projecting vertically upwards from a cave floor and formed by precipitation from drips.
+Cause-Effect(e1,e2)
+Comment: 
+
+359	<e1>subjacent karst</e1> - <e2>karst</e2> developed in soluble beds underlying other rock formations; the surface mayor may not be affected by the karst development.
+Entity-Origin(e1,e2)
+Comment: 
+
+364	<e1>travertine</e1> - compact calcium carbonate <e2>deposit</e2>, often banded, precipitated from spring, river or lake water. cf. tufa.
+Cause-Effect(e1,e2)
+Comment: 
+
+366	<e1>tufa</e1> - spongy or vesicular <e2>calcium carbonate</e2> deposited from spring, river or lake waters.
+Cause-Effect(e1,e2)
+Comment: 
+
+367	<e1>twilight zone</e1> - the part of a <e2>cave</e2> to which daylight penetrates.
+Entity-Origin(e1,e2)
+Comment: 
+
+369	<e1>vadose zone</e1> - the <e2>zone</e2> where voids in the rock are partly filled with air and through which water descends under gravity.
+Entity-Origin(e1,e2)
+Comment: 
+
+371	<e1>well</e1> - a deep rounded <e2>hole</e2> in a cave floor or on the surface in karst.
+Entity-Origin(e1,e2)
+Comment: 
+
+376	<e1>apron</e1>: A smooth bulging <e2>mass of flowstone</e2> covering sloping projections from walls of caves or limestone cliffs.
+Entity-Origin(e1,e2)
+Comment: 
+
+383	<e1>balcony</e1>: Any <e2>projection on the wall</e2> of a cave large enough to support one or more persons.
+Entity-Origin(e1,e2)
+Comment: 
+
+387	<e1>blind valley</e1>: A <e2>valley</e2> that ends suddenly at the point where its stream disappears underground; some blind valleys have no present-day streams. See also half-blind valley; marginal polje.
+Entity-Origin(e1,e2)
+Comment: 
+
+388	<e1>blowhole</e1>: A <e2>hole</e2> on land near the shore through which air and water are forced by incoming waves.
+Entity-Origin(e1,e2)
+Comment: 
+
+391	<e1>blue hole</e1>: A drowned solution <e2>sinkhole</e2>.
+Entity-Origin(e1,e2)
+Comment: 
+
+394	botryoid: A grapelike <e1>deposit of calcium carbonate</e1> generally found on walls of caves. Synonyms, clusterite; <e2>grape formation</e2>.
+Entity-Origin(e2,e1)
+Comment: 
+
+395	botryoid: A grapelike <e1>deposit of calcium carbonate</e1> generally found on walls of caves. Synonyms, <e2>clusterite</e2>; grape formation.
+Entity-Origin(e2,e1)
+Comment: 
+
+396	<e1>botryoid</e1>: A grapelike <e2>deposit of calcium carbonate</e2> generally found on walls of caves. Synonyms, clusterite; grape formation.
+Entity-Origin(e1,e2)
+Comment: 
+
+397	<e1>bourne</e1>: Intermittent <e2>stream</e2> in a normally dry valley in chalk country.
+Entity-Origin(e1,e2)
+Comment: 
+
+398	<e1>boxwork</e1>: Network of <e2>thin blades</e2> of calcite or gypsum etched out in relief on the limestone walls and ceiling of a cave.
+Entity-Origin(e1,e2)
+Comment: 
+
+399	<e1>bridge</e1>: In a cave, a residual <e2>rock span</e2> across a passage. See also natural bridge
+Entity-Origin(e1,e2)
+Comment: 
+
+400	<e1>buried karst</e1>: <e2>Karst topography</e2> buried by younger sediments. See also covered karst; paleokarst.
+Cause-Effect(e1,e2)
+Comment: 
+
+403	<e1>calcite</e1>: A <e2>mineral</e2> composed of calcium carbonate, CaCOs, like aragonite but differing in crystal form; the principal constituent of limestone.
+Cause-Effect(e1,e2)
+Comment: 
+
+404	<e1>calcite bubble</e1>: A hollow <e2>sphere</e2> formed by the deposition of calcite around a gas bubble; the interior is smooth, and the exterior consists of small jagged crystals.
+Cause-Effect(e1,e2)
+Comment: 
+
+405	<e1>canopy</e1>: A compound <e2>cave formation</e2> consisting of flowstone hanging from a sloping wall projection and forming a fringe of shawls or stalactites on the outer edge.
+Entity-Origin(e1,e2)
+Comment: 
+
+406	<e1>canyon</e1>: A <e2>valley</e2> formed by collapse of the roof of a long fairly straight cave; a karst valley.
+Cause-Effect(e1,e2)
+Comment: 
+
+410	<e1>cave breakdown</e1>: <e2>Enlargement</e2> of parts of a cave system by fall of rock masses from walls and ceiling.
+Cause-Effect(e1,e2)
+Comment: 
+
+411	<e1>cave breakdown</e1>: <e2>Heaps of rock</e2> that have collapsed from the walls and ceiling of a cave, generally called cave breccia.
+Cause-Effect(e1,e2)
+Comment: 
+
+415	cave flower: An elongate curved <e1>deposit</e1> of gypsum or epsomite on a cave wall in which growth occurs at the attached end. Synonyms, gypsum flower; <e2>oulo - pholite</e2>.
+Entity-Origin(e2,e1)
+Comment: 
+
+416	<e1>cave flower</e1>: An elongate curved <e2>deposit</e2> of gypsum or epsomite on a cave wall in which growth occurs at the attached end. Synonyms, gypsum flower; oulo - pholite.
+Entity-Origin(e1,e2)
+Comment: 
+
+417	cave flower: An elongate curved <e1>deposit</e1> of gypsum or epsomite on a cave wall in which growth occurs at the attached end. Synonyms, <e2>gypsum flower</e2>; oulo - pholite.
+Entity-Origin(e2,e1)
+Comment: 
+
+422	<e1>cave pearl</e1>: Small <e2>concretion</e2> of calcite or aragonite formed by concentric precipitation around a nucleus. Synonyms, pisolite, pisolith.
+Cause-Effect(e1,e2)
+Comment: 
+
+423	cave pearl: Small <e1>concretion</e1> of calcite or aragonite formed by concentric precipitation around a nucleus. Synonyms, <e2>pisolite</e2>, pisolith.
+Cause-Effect(e2,e1)
+Comment: 
+
+424	cave pearl: Small <e1>concretion</e1> of calcite or aragonite formed by concentric precipitation around a nucleus. Synonyms, pisolite, <e2>pisolith</e2>.
+Cause-Effect(e2,e1)
+Comment: 
+
+425	<e1>cave series</e1>: A <e2>group of caves</e2> of similar morphology in a particular district. See also cave group.
+Entity-Origin(e1,e2)
+Comment: 
+
+426	<e1>cave spring</e1>: A <e2>spring</e2> rising in a cave, cave system.
+Entity-Origin(e1,e2)
+Comment: 
+
+430	ceiling slab, <e1>roof slab</e1>: A thin but extensive <e2>piece of rock</e2> that has fallen from the ceiling of a cave in roughly horizontal limestone. See also cave breakdown; ceiling block.
+Cause-Effect(e1,e2)
+Comment: 
+
+431	<e1>ceiling slab</e1>, roof slab: A thin but extensive <e2>piece of rock</e2> that has fallen from the ceiling of a cave in roughly horizontal limestone. See also cave breakdown; ceiling block.
+Cause-Effect(e1,e2)
+Comment: 
+
+432	<e1>ceiling tube</e1>: A half <e2>tube</e2> remaining in the ceiling of a cave.
+Entity-Origin(e1,e2)
+Comment: 
+
+434	<e1>chalk</e1>: Soft poorly indurated <e2>limestone</e2>, generally light in color; commonly composed of the tests of floating microorganisms in a matrix of verv finely crystalline calcite.
+Entity-Origin(e1,e2)
+Comment: 
+
+435	<e1>chamber</e1>: The largest order of <e2>cavity</e2> in a cave or cave system; it has considerable length and breadth but not necessarily great height.
+Entity-Origin(e1,e2)
+Comment: 
+
+436	<e1>chasm</e1>: A deep, fairly narrow <e2>breach</e2> in the earth's surface; an abyss; a gorge; a deep canyon.
+Entity-Origin(e1,e2)
+Comment: 
+
+437	<e1>chimney</e1>: A narrow vertical <e2>shaft</e2> in the roof of a cave, generally smaller than an aven; a dome pit.
+Entity-Origin(e1,e2)
+Comment: 
+
+438	<e1>chockstone</e1>: A <e2>rock</e2> wedged between the walls of a cave passage.
+Entity-Origin(e1,e2)
+Comment: 
+
+440	<e1>chute</e1>: An inclined <e2>channel</e2> or trough in a cave.
+Entity-Origin(e1,e2)
+Comment: 
+
+442	clint: <e1>Slabs</e1> of limestone, parallel to the bedding, forming a pavement. Widened joints, or grikes, isolate individual clints. Synonym, <e2>Flachkarren</e2>.
+Entity-Origin(e2,e1)
+Comment: 
+
+443	<e1>clint</e1>: <e2>Slabs</e2> of limestone, parallel to the bedding, forming a pavement. Widened joints, or grikes, isolate individual clints. Synonym, Flachkarren.
+Entity-Origin(e1,e2)
+Comment: 
+
+445	<e1>cockpit</e1>: A star-shaped <e2>depression</e2> having a conical or slightly concave floor. The surrounding hill slopes are steep and convex. Cockpits are the common type of closed depressions in a Kegelkarst.
+Entity-Origin(e1,e2)
+Comment: 
+
+447	<e1>collapse breccia</e1>: A <e2>mass of rock</e2> composed of angular to rounded fragments of limestone or dolomite that has formed as the result of the collapse of the roof of a cave, of an underlying cave, or of an overhanging ledge. See also solution breccia.
+Cause-Effect(e1,e2)
+Comment: 
+
+448	<e1>collapse sink</e1>: A <e2>closed depression</e2> formed by the collapse of tie roof of a cave. See also doline.
+Cause-Effect(e1,e2)
+Comment: 
+
+449	<e1>conduit</e1>: A subterranean <e2>stream course</e2> filled completely with water and always under hydrostatic pressure. See also siphon.
+Entity-Origin(e1,e2)
+Comment: 
+
+450	<e1>cone karst</e1>: A type of <e2>karst topography</e2>, common in the tropicr. characterized by star-shaped depressions at the feet of many steep-sided core-shaped hills. A variety of Kegelkarst. See also cockpit karst.
+Entity-Origin(e1,e2)
+Comment: 
+
+451	<e1>constructive waterfall</e1>: A large rimstone <e2>dam</e2> on a surface stream. dam
+Entity-Origin(e1,e2)
+Comment: 
+
+452	<e1>conulite</e1>: A hollow, cone-shaped <e2>speleothem</e2> formed when a conical depression is drilled in cave mud by falling water. Subsequent erosion may remove the mud, isolating the calcite lining of the depression. calcite
+Cause-Effect(e1,e2)
+Comment: 
+
+453	<e1>corridor</e1>: A fairly level and straight <e2>passage</e2> that links two or more rooms or chambers in a cave. in a cave
+Entity-Origin(e1,e2)
+Comment: 
+
+454	<e1>corrosion</e1>: <e2>Erosion</e2> by solution or chemical action. See also corrasion.
+Cause-Effect(e1,e2)
+Comment: 
+
+455	corrosion: <e1>Erosion</e1> by solution or chemical action. See also <e2>corrasion</e2>.
+Cause-Effect(e2,e1)
+Comment: 
+
+456	<e1>cove</e1>: Narrow steep-sided <e2>karst valley</e2> flanking limestone plateaus. limestone plateaus
+Entity-Origin(e1,e2)
+Comment: 
+
+459	<e1>crust stone</e1>: A fragile layer of <e2>flowstone</e2> covering portions of walls of caves; looks like a flaky crust. Found in some Kentucky caves.
+Entity-Origin(e1,e2)
+Comment: 
+
+462	cul-de-sac, <e1>dead end</e1>: A subterranean <e2>passage</e2> having only one entry.
+Entity-Origin(e1,e2)
+Comment: 
+
+463	<e1>cul-de-sac</e1>, dead end: A subterranean <e2>passage</e2> having only one entry.
+Entity-Origin(e1,e2)
+Comment: 
+
+469	cutter: A Karren-like <e1>groove</e1> formed beneath the soil, more commonly referred to as <e2>subsoil Karren</e2>. See also Karren.
+Entity-Origin(e2,e1)
+Comment: 
+
+470	<e1>cutter</e1>: A Karren-like <e2>groove</e2> formed beneath the soil, more commonly referred to as subsoil Karren. See also Karren.
+Entity-Origin(e1,e2)
+Comment: 
+
+471	cutter: A <e1>Karren</e1>-like <e2>groove</e2> formed beneath the soil, more commonly referred to as subsoil Karren. See also Karren.
+Entity-Origin(e1,e2)
+Comment: 
+
+472	<e1>dead cave</e1>: A dry <e2>cave</e2> in which all solution and precipitation has cersed.
+Cause-Effect(e1,e2)
+Comment: 
+
+473	<e1>doline</e1>: A basin - or funnel-shaped <e2>hollow</e2> in limestone, ranging in diameter from a few meters to a kilometer and in depth from a few to several hundred meters. Some dolines are gentle grassy hollows; others are rocky cliff-bounded basins. A distinction may be made between those formed mainly by direct solution of the limestone surface zone, solution dolines, and those formed by collapse over a cave, collapse dolines, but it is generally not possible to establish the origin of individual examples.
+Cause-Effect(e1,e2)
+Comment: 
+
+474	<e1>doline lake</e1>: A small <e2>karst lake</e2> occupying a doline.
+Entity-Origin(e1,e2)
+Comment: 
+
+478	<e1>dolomitization</e1>: The <e2>process</e2> whereby limestone becomes dolomite by the substitution of magnesium carbonate for part of the original calcium carbonate.
+Cause-Effect(e1,e2)
+Comment: 
+
+479	<e1>driphole</e1>: <e2>Hole</e2> in rock or clay produced by fast-dripping water.
+Cause-Effect(e1,e2)
+Comment: 
+
+480	<e1>driphole</e1>: <e2>Hollow space</e2> surrounded by precipitated material, such as the bottom of a stalactite. space
+Entity-Origin(e1,e2)
+Comment: 
+
+485	<e1>exhumed karst</e1>: <e2>Karst</e2> features reexposed by erosion from bene? th former covering strata.
+Cause-Effect(e1,e2)
+Comment: 
+
+486	<e1>fault cave</e1>: A <e2>cave</e2> developed along a fault or fault zone.
+Entity-Origin(e1,e2)
+Comment: 
+
+487	<e1>fissure cave</e1>: A narrow vertical <e2>cave</e2> or cave passage along a fissure. Fissures widen out to become wells or shaft caves.
+Entity-Origin(e1,e2)
+Comment: 
+
+490	<e1>floe calcite</e1>: Very thin film of pure <e2>calcium carbonate</e2> floating on the surface of a subterranean pool of very calm water. thin film
+Entity-Origin(e1,e2)
+Comment: 
+
+491	<e1>flowstone</e1>: <e2>Deposits</e2> of calcium carbonate, gypsum, and other mineral matter which have accumulated on the walls or floors of caves at places where water trickles or flows over the rock. See also dripstone.
+Cause-Effect(e1,e2)
+Comment: 
+
+492	<e1>fluviokarst</e1>: A predominantly <e2>karst</e2> landscape in which there is much evidence of past or present fluvial activity.
+Cause-Effect(e1,e2)
+Comment: 
+
+494	<e1>foiba</e1>: A natural <e2>vertical shaft</e2> in soluble rock, tending toward cylindrical shape; it may or may not reach the surface. A dome pit.
+Entity-Origin(e1,e2)
+Comment: 
+
+495	<e1>fungling</e1>: Isolated limestone <e2>hill</e2> in alluvial plain, probably similar to mogote.
+Entity-Origin(e1,e2)
+Comment: 
+
+496	<e1>gallery</e1>: A rather large, nearly <e2>horizontal passage</e2> in a cave.
+Entity-Origin(e1,e2)
+Comment: 
+
+502	<e1>grotto</e1>: A small <e2>cave</e2>, natural or artificial.
+Cause-Effect(e1,e2)
+Comment: 
+
+503	<e1>grotto</e1>: A <e2>room</e2>, in a cave system, of moderate dimensions but richly decorated.
+Entity-Origin(e1,e2)
+Comment: 
+
+508	<e1>half-blind valley</e1>: Blind <e2>valley</e2> in which the stream overflows in floodtirae when the swallow hole can not accep t all the water.
+Cause-Effect(e1,e2)
+Comment: 
+
+509	<e1>hall</e1>: In a cave, a lofty <e2>chamber</e2> which is much longer than it is wide.
+Entity-Origin(e1,e2)
+Comment: 
+
+513	<e1>heligmite</e1>: An eccentric growing upward from a cave floor or from a shelf in a cave. A curved or angular thin <e2>stalagmite</e2>.
+Entity-Origin(e1,e2)
+Comment: 
+
+515	hum: <e1>Karst inselberg</e1>. Residual <e2>hill</e2> of limestone on a fairly level floor, such as the isolated hills of limestone in poljes. In some tropical areas, used loosely as synonym for mogote.
+Entity-Origin(e1,e2)
+Comment: 
+
+516	hum: Karst inselberg. Residual <e1>hill</e1> of limestone on a fairly level floor, such as the isolated hills of limestone in poljes. In some tropical areas, used loosely as synonym for <e2>mogote</e2>.
+Entity-Origin(e2,e1)
+Comment: 
+
+517	<e1>hum</e1>: Karst inselberg. Residual <e2>hill</e2> of limestone on a fairly level floor, such as the isolated hills of limestone in poljes. In some tropical areas, used loosely as synonym for mogote.
+Entity-Origin(e1,e2)
+Comment: 
+
+523	<e1>joint-plane cave</e1>: A <e2>cavity</e2> high in relation to width developed along steeply dipping joint planes.
+Entity-Origin(e1,e2)
+Comment: 
+
+526	<e1>Kluftkarren</e1>: Type of <e2>Karren</e2>; joints enlarged by solution.
+Cause-Effect(e1,e2)
+Comment: 
+
+527	<e1>Spitzkarren</e1>: Type of <e2>Karren</e2>, large deep grooves extending down from steep spires or pinnacles.
+Entity-Origin(e1,e2)
+Comment: 
+
+529	<e1>Rundkarren</e1>: <e2>Karren</e2> having rounded channels and intervening rounded ridges, probably reexhumed after formation under soil or peat.
+Cause-Effect(e1,e2)
+Comment: 
+
+530	<e1>Bodenkarren</e1>: <e2>Karren</e2> formed beneath the soil. Synonym, lapils.
+Entity-Origin(e1,e2)
+Comment: 
+
+535	<e1>karst river</e1>: A <e2>river</e2> that originates from a karst spring.
+Cause-Effect(e1,e2)
+Comment: 
+
+536	<e1>karst spring</e1>: A <e2>spring</e2> emerging from karstified limestone.
+Entity-Origin(e1,e2)
+Comment: 
+
+538	<e1>karst valley</e1>: Elongate solution <e2>valley</e2>.
+Cause-Effect(e1,e2)
+Comment: 
+
+539	<e1>karst valley</e1>: <e2>Valley</e2> produced by collapse of a cavern roof.
+Cause-Effect(e1,e2)
+Comment: 
+
+545	<e1>keyhole</e1>: A small <e2>passage</e2> or opening in a cave; in cross section, rounded at the top, constricted in the middle, and rectangular or flared out below.
+Entity-Origin(e1,e2)
+Comment: 
+
+548	<e1>limestone</e1>: A sedimentary <e2>rock</e2> consisting chiefly of calcium carbonate, CaCO
+Cause-Effect(e1,e2)
+Comment: 
+
+552	<e1>lost river</e1>: In a karst region, a <e2>surface stream</e2> that enters an underground course.
+Entity-Origin(e1,e2)
+Comment: 
+
+553	<e1>lycopodium spores</e1>: <e2>Spores</e2> of lycopodium claratum, which can be used in natural or dyed color as a label in studying ground-water movement in karst areas.
+Entity-Origin(e1,e2)
+Comment: 
+
+564	<e1>natural bridge</e1>: A rock <e2>bridge</e2> spanning a ravine and not yet eroded away.
+Cause-Effect(e1,e2)
+Comment: 
+
+569	<e1>pepino hill</e1>: Rounded or conical-shaped <e2>hill</e2> resulting from tropical humid karst action. Term generally replaced in Puerto Rico by mogote.
+Cause-Effect(e1,e2)
+Comment: 
+
+570	phreas, <e1>phreatic water</e1>: <e2>Water</e2> in the zone of saturation; water below the water table.
+Entity-Origin(e1,e2)
+Comment: 
+
+571	<e1>phreas</e1>, phreatic water: <e2>Water</e2> in the zone of saturation; water below the water table.
+Entity-Origin(e1,e2)
+Comment: 
+
+580	<e1>ponor</e1>: <e2>Hole</e2> in the bottom or side of a closed depression through which water passes to or from an underground channel. Compare swallet, swallow hole.
+Entity-Origin(e1,e2)
+Comment: 
+
+581	<e1>pool deposit</e1>: <e2>Crystalline material</e2> deposited in an isolated pool in a cave.
+Entity-Origin(e1,e2)
+Comment: 
+
+585	<e1>resurgence</e1>: <e2>Point</e2> at which an underground stream reaches the surface and becomes a surface stream. In European literature, the term is reserved for the reemergence of a stream that has earlier sunk upstream; the term exsurgence is applied to a stream without known surface headwaters.
+Entity-Origin(e1,e2)
+Comment: 
+
+586	<e1>rift</e1>: A long narrow high <e2>cave passage</e2> controlled by joints or faults.
+Cause-Effect(e1,e2)
+Comment: 
+
+588	<e1>rimstone pool</e1>: <e2>Pool</e2> kept in place by a rimstone dam.
+Cause-Effect(e1,e2)
+Comment: 
+
+589	<e1>rise</e1>: <e2>Spring</e2> rising from fractures in limestone. Point at which an underground stream comes to the surface. in limestone
+Entity-Origin(e1,e2)
+Comment: 
+
+590	<e1>rock pinnacle</e1>: A tall sharp <e2>projection of bedrock</e2> rising from the floor of a cave.
+Entity-Origin(e1,e2)
+Comment: 
+
+595	<e1>sand stalagmite</e1>: A <e2>stalagmite</e2> formed on sand and made of calcite cemented sandstone.
+Entity-Origin(e1,e2)
+Comment: 
+
+596	<e1>scaling plate</e1>: A small flat <e2>piece of rock</e2> of rectangular or polygonal shape, that has fallen to the floor of a cave. A form of cave breakdown in thin-tedded impure limestone cut by closely spaced joints.
+Cause-Effect(e1,e2)
+Comment: 
+
+597	<e1>scallop</e1>: Oval <e2>hollow</e2> having an asymmetric cross section along its main axis. Scallops form patterns on tl e walls of caves and in streambeds and were used by Bretz to determine direction of flow of turbulent water, since they are steeper on the upstream side. Commonly called flutes in America.
+Entity-Origin(e1,e2)
+Comment: 
+
+599	<e1>shaft</e1>: A vertical <e2>passage</e2> in a cave.
+Entity-Origin(e1,e2)
+Comment: 
+

@@ -8,6 +8,12 @@ def parse_args():
     """
     parser = argparse.ArgumentParser()
 
+    parser.add_argument("--transfer_learn", default=0,
+                        type=int, help="Use transfer learning")
+
+    parser.add_argument("--mapped_labels", default=1,
+                        type=int, help="Use mapped labels for Termframe")
+
     # Data loading params
     parser.add_argument("--train_path", default="SemEval2010_task8_all_data/SemEval2010_task8_training/TRAIN_FILE.TXT",
                         type=str, help="Path of train data")

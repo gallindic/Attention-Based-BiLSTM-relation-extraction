@@ -1,0 +1,236 @@
+2	<e1>Holocen</e1> predstavlja <e2>medledeno dobo</e2>, ki se je začela pred približno 11.000 leti s hitrim zviševanjem morske gladine.
+Cause-Effect(e1,e2)
+Comment:
+
+3	Vse <e1>pojave</e1> premeščanja gradiva, ki nastanejo zaradi vpliva gravitacije in so pomemben dejavnik denudacije površja, imenujemo <e2>pobočni procesi</e2>.
+Cause-Effect(e2,e1)
+Comment:
+
+3	Vse <e1>pojave</e1> premeščanja gradiva, ki nastanejo zaradi vpliva gravitacije in so pomemben dejavnik denudacije površja, imenujemo <e2>pobočni procesi</e2>.
+Cause-Effect(e2,e1)
+Comment:
+
+4	Pri izrazu <e1>pobočni procesi</e1> ime pove, da gre za <e2>procese</e2>, ki se dogajajo na pobočjih.
+Entity-Origin(e1,e2)
+Comment:
+
+5	<e1>Proces</e1>, v katerem se trdna kompaktna kamnina pod vplivom eksogenih dejavnikov razkraja v manjše in med seboj nepovezane delce, imenujemo <e2>preperevanje</e2>.
+Cause-Effect(e2,e1)
+Comment:
+
+5	<e1>Proces</e1>, v katerem se trdna kompaktna kamnina pod vplivom eksogenih dejavnikov razkraja v manjše in med seboj nepovezane delce, imenujemo <e2>preperevanje</e2>.
+Cause-Effect(e2,e1)
+Comment:
+
+8	V leksikonu je <e1>spodmol</e1> definiran kot " kratka <e2>votlina</e2> z visoko previsno steno na vhodu " in kot " zaradi delovanja valov izpodjeden previs na morski, jezerski obali "
+Entity-Origin(e1,e2)
+Comment:
+
+8	V leksikonu je <e1>spodmol</e1> definiran kot " kratka <e2>votlina</e2> z visoko previsno steno na vhodu " in kot " zaradi delovanja valov izpodjeden previs na morski, jezerski obali "
+Cause-Effect(e1,e2)
+Comment:
+
+9	V geologiji je <e1>zemeljski plaz</e1> definiran kot <e2>območje</e2> preperine, usedline ali kamnine, ki se je hitro ali počasi premaknila s prvotnega kraja in ima vidno spremenjeno površje.
+Cause-Effect(e1,e2)
+Comment:
+
+10	V najstarejši literaturi izraz <e1>spodmol</e1> pomeni majhno <e2>izravnavo</e2> na povešenih gorskih hrbtih in slemenih.
+Entity-Origin(e1,e2)
+Comment:
+
+11	<e1>Spodmole</e1> opišejo kot vodoravne <e2>vdolbine</e2> / zajede v obliki črke C v navpičnem prerezu, izdolbene na pobočjih in v skalnih stenah. skalnih
+Entity-Origin(e1,e2)
+Comment:
+
+12	Uporablja se pojem <e1>prebojna dolina</e1>, kar pa je samo slovenski izraz za antecedentno dolino, to je tisti del <e2>rečne doline</e2>, ki se je ob dviganju antiklinale vrezal prečno na antiklinalo.
+Cause-Effect(e1,e2)
+Comment:
+
+13	Uporablja se pojem prebojna dolina, kar pa je samo slovenski izraz za <e1>antecedentno dolino</e1>, to je tisti del <e2>rečne doline</e2>, ki se je ob dviganju antiklinale vrezal prečno na antiklinalo.
+Cause-Effect(e1,e2)
+Comment:
+
+14	Izraz <e1>denudacija</e1> označuje <e2>razgaljanje površja</e2> oziroma ploskovno odstranjevanje preperelih snovi s površja zemlje z eksogenimi procesi. površja preperelih snovi ploskovno
+Cause-Effect(e1,e2)
+Comment:
+
+15	Z izrazom <e1>zemeljski plaz</e1> razumejo tako <e2>proces</e2>, to je " … premikanje kamnin ali zemlje po pobočju navzdol pod vplivom gravitacije... ".
+Cause-Effect(e1,e2)
+Comment:
+
+15	Z izrazom <e1>zemeljski plaz</e1> razumejo tako <e2>proces</e2>, to je " … premikanje kamnin ali zemlje po pobočju navzdol pod vplivom gravitacije... ".
+Cause-Effect(e1,e2)
+Comment:
+
+19	Ta <e1>proces</e1> oblikovanja rovov na kontaktnem krasu imenujemo <e2>parageneza</e2>. rovov
+Entity-Origin(e2,e1)
+Comment:
+
+19	Ta <e1>proces</e1> oblikovanja rovov na kontaktnem krasu imenujemo <e2>parageneza</e2>. rovov
+Cause-Effect(e2,e1)
+Comment:
+
+20	Take <e1>jame</e1> imenujemo <e2>paragenetske jame</e2>, zaradi njihove lege v občasno zaliti coni pa jih lahko imenujemo tudi epifreatične jame.
+Entity-Origin(e2,e1)
+Comment:
+
+21	Take <e1>jame</e1> imenujemo paragenetske jame, zaradi njihove lege v občasno zaliti coni pa jih lahko imenujemo tudi <e2>epifreatične jame</e2>.
+Entity-Origin(e2,e1)
+Comment:
+
+22	Nad kraškim izvirom se pojavlja strm <e1>konec doline</e1>, ki ga imenujemo <e2>zatrep</e2>.
+Entity-Origin(e2,e1)
+Comment:
+
+24	<e1>Sloj</e1> med najvišjim in najnižjim nivojem podzemne vode v krasu imenujemo <e2>epifreatična cona</e2>.
+Entity-Origin(e2,e1)
+Comment:
+
+29	<e1>Spremembo</e1> Shannonove entropije imenujemo <e2>Kolmogorovova entropija</e2> in je enaka vsoti pozitivnih Lyapunovovih eksponentov.
+Cause-Effect(e2,e1)
+Comment:
+
+30	S preperevanjem apnenca in dolomita nastane iz netopnih ostankov <e1>ilovica</e1>, ki jo skupaj s huminskimi snovmi imenujemo <e2>jerovica</e2>. netopnih
+Cause-Effect(e2,e1)
+Comment:
+
+32	<e1>Sediment</e1> nastane s trenjem in ga imenujemo <e2>tektonska glina</e2> zaradi velikosti delcev.
+Cause-Effect(e2,e1)
+Comment:
+
+36	<e1>Požiralnik</e1> je definiran kot <e2>špranja</e2> ali brezno v skalnem koritu, ki požira vodo, ponikev kot odprtina, v katero ponika voda in je večinoma prekrita z naplavino, ponor pa kot večja vodoravna odprtina v katero teče potok ali reka
+Entity-Origin(e1,e2)
+Comment:
+
+37	Slovenska kraška terminologija opredeli <e1>hum</e1> kot osamljen korozijsko-erozijsko-denudacijski <e2>ostanek višjega reliefa</e2>, zlasti na dnu kraškega polja.
+Entity-Origin(e1,e2)
+Comment:
+
+37	Slovenska kraška terminologija opredeli <e1>hum</e1> kot osamljen korozijsko-erozijsko-denudacijski <e2>ostanek višjega reliefa</e2>, zlasti na dnu kraškega polja.
+Cause-Effect(e1,e2)
+Comment:
+
+39	<e1>Kraška polja</e1> so največje in gospodarsko najpomembnejše <e2>kotanje</e2> v dinarskem krasu.
+Entity-Origin(e1,e2)
+Comment:
+
+40	<e1>Škavnice</e1> so skledaste <e2>vdolbine</e2> na vodoravni ali rahlo nagnjeni skalni podlagi.
+Entity-Origin(e1,e2)
+Comment:
+
+41	<e1>Žlebiči</e1> in žlebovi so <e2>žlebaste izjedenine</e2> s polkrožnim prečnim prerezom, ki se oblikujejo na ravnem kompaktnem skalnem površju in potekajo v smeri največjega naklona
+Entity-Origin(e1,e2)
+Comment:
+
+42	Žlebiči in <e1>žlebovi</e1> so <e2>žlebaste izjedenine</e2> s polkrožnim prečnim prerezom, ki se oblikujejo na ravnem kompaktnem skalnem površju in potekajo v smeri največjega naklona
+Entity-Origin(e1,e2)
+Comment:
+
+43	<e1>Veter</e1> je <e2>gibanje zraka</e2>, ki nastane zaradi razlik v zračnem tlaku.
+Cause-Effect(e1,e2)
+Comment:
+
+45	Po prvi definiciji je <e1>spodmol</e1> <e2>prostor pod previsom</e2> v skalovju, po drugi pa kratka vodoravna jama pod previsno steno. kratka
+Entity-Origin(e1,e2)
+Comment:
+
+46	Večji ali manjši del kraškega polja je <e1>ravnica</e1>, običajno obdelana <e2>zemlja</e2>, ki je največkrat na naplavini ali debeli prsti.
+Entity-Origin(e1,e2)
+Comment:
+
+49	Podkategorija te <e1>znanosti</e1> je <e2>astroglaciologija</e2>, ki je nastala po odkritju vodnega ledu na Luni, Evropi, Marsu in Plutonu.
+Cause-Effect(e2,e1)
+Comment:
+
+50	<e1>Spodmol</e1> je definiran tudi kot <e2>previs</e2> na morski, redkeje jezerski obali, ki ga ustvari erozijsko delovanje valov in kot kraška jama.
+Entity-Origin(e1,e2)
+Comment:
+
+50	<e1>Spodmol</e1> je definiran tudi kot <e2>previs</e2> na morski, redkeje jezerski obali, ki ga ustvari erozijsko delovanje valov in kot kraška jama.
+Cause-Effect(e1,e2)
+Comment:
+
+52	<e1>Kopasti vrhovi</e1> so najpogostejši tip <e2>kraške vzpetine</e2>. Gre za višje predele kraškega površja, ki navadno ležijo med zaprtimi kraškimi kotanjami različnih dimenzij, kot so uvale, vrtače in druge manjše globeli.
+Entity-Origin(e1,e2)
+Comment:
+
+58	<e1>Kraška polja</e1> so največje in gospodarsko najpomembnejše <e2>kotanje</e2> v dinarskem krasu.
+Entity-Origin(e1,e2)
+Comment:
+
+62	<e1>Kemično preperevanje</e1> je <e2>razgrajevanje kamnine</e2> pod vplivom vode in v njej raztopljenih snovi.
+Cause-Effect(e1,e2)
+Comment:
+
+65	<e1>Kraška polja</e1> so največje oblike <e2>kraških kotanj</e2> na krasu.
+Entity-Origin(e1,e2)
+Comment:
+
+66	<e1>Erozijski jarki</e1> so fluvialna <e2>erozijska oblika</e2>, ki je na proučevanih območjih najpogostejša na pobočjih kotanj.
+Entity-Origin(e1,e2)
+Comment:
+
+66	<e1>Erozijski jarki</e1> so fluvialna <e2>erozijska oblika</e2>, ki je na proučevanih območjih najpogostejša na pobočjih kotanj.
+Cause-Effect(e1,e2)
+Comment:
+
+69	<e1>Fluviokraško površje</e1> je prehodna <e2>oblika kraškega reliefa</e2>, kjer prevladuje odnašanje materiala in se površje mestoma preoblikuje fluvialno.
+Cause-Effect(e1,e2)
+Comment:
+
+70	<e1>Erozijski jarki</e1> so tipična <e2>fluviokraška oblika</e2>, kjer se zaradi lokalne prevlade mehanskega odtoka materiala površje preoblikuje fluvialno.
+Cause-Effect(e1,e2)
+Comment:
+
+70	<e1>Erozijski jarki</e1> so tipična <e2>fluviokraška oblika</e2>, kjer se zaradi lokalne prevlade mehanskega odtoka materiala površje preoblikuje fluvialno.
+Cause-Effect(e1,e2)
+Comment:
+
+73	<e1>Paragenezo</e1> razumemo kot <e2>proces erodiranja in korodiranja</e2> jamskega stropa do gladine podzemne vode ter akumulacije alogenega materiala na dno rova.
+Cause-Effect(e1,e2)
+Comment:
+
+74	Tafon in <e1>niša</e1> (spodmoli) sta dve različni <e2>reliefni obliki</e2>, čeprav naj bi obe obliki nastali z votlinastim preperevanjem. Po drugi strani imamo avtorje, ki spodmole enačijo s tafoni.
+Cause-Effect(e1,e2)
+Comment:
+
+75	<e1>Tafon</e1> in niša (spodmoli) sta dve različni <e2>reliefni obliki</e2>, čeprav naj bi obe obliki nastali z votlinastim preperevanjem. Po drugi strani imamo avtorje, ki spodmole enačijo s tafoni.
+Cause-Effect(e1,e2)
+Comment:
+
+78	<e1>Zoogena breča</e1> je značilna <e2>kamnina</e2> tega obdobja, ki je nastala predvsem iz ostankov favnističnega izvora.
+Cause-Effect(e1,e2)
+Comment:
+
+79	<e1>Jarkovna erozija</e1> je <e2>globinska erozija</e2>, pri kateri na primer z zdruèvanjem erozijskih žlebičev nastajajo več metrov globoko in več deset metrov dolgi erozijski jarki.
+Cause-Effect(e1,e2)
+Comment:
+
+80	<e1>Plazovitost</e1> je <e2>skladnost</e2> med usmerjenostjo pobočij in vpadom kamninskih plasti.
+Cause-Effect(e1,e2)
+Comment:
+
+81	<e1>Spodmoli</e1> so <e2>vdolbine</e2> v navpičnih stenah pod previsi, ki navadno ne dosegajo dimenzij jam, njihova širina pa je večja od globine.
+Entity-Origin(e1,e2)
+Comment:
+
+88	<e1>Abrazija</e1> je <e2>destrukcijsko delo</e2> morskih in jezerskih valov.
+Cause-Effect(e1,e2)
+Comment:
+
+89	<e1>Erozija prsti</e1> je oznaka za <e2>proces</e2>, ki povečini prizadene prst.
+Cause-Effect(e1,e2)
+Comment:
+
+91	<e1>Erozijski jarki</e1> so stalna <e2>reliefna oblika</e2>, pogosta na strmih pobočjih.
+Entity-Origin(e1,e2)
+Comment:
+
+92	<e1>Mikrožlebiči</e1> so vzporedne, ravno potekajoče podolgovate <e2>vdolbine</e2>, ki se pojavljajo na bolj nagnjeni goli skalni površini.
+Entity-Origin(e1,e2)
+Comment:
+
+93	<e1>Korozijske stopničke</e1> so polkrožne kraške <e2>reliefne oblike</e2>, ki se pojavljajo predvsem na golem skalnem površju.
+Entity-Origin(e1,e2)
+Comment:
+

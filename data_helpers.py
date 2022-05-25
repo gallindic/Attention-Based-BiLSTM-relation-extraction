@@ -72,7 +72,7 @@ def load_data_and_labels(path):
     print("max sentence length = {}\n".format(max_sentence_length))
 
     df = pd.DataFrame(data=data, columns=["id", "sentence", "relation"])
-    df['label'] = [utils.class2label[r] for r in df['relation']]
+    df['label'] = [utils.class2labelT[r] for r in df['relation']]
 
     # Text Data
     x_text = df['sentence'].tolist()
@@ -94,7 +94,7 @@ def load_data_and_labels(path):
         labels_one_hot.flat[index_offset + labels_dense.ravel()] = 1
         return labels_one_hot
 
-    labels = dense_to_one_hot(labels_flat, labels_count)
+    labels = dense_to_one_hot(labels_flat, 19)
     labels = labels.astype(np.uint8)
 
     return x_text, labels
