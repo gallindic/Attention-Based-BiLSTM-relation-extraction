@@ -65,14 +65,6 @@ def eval():
             prediction_file.close()
             truth_file.close()
 
-            perl_path = os.path.join(os.path.curdir,
-                                     "SemEval2010_task8_all_data",
-                                     "SemEval2010_task8_scorer-v1.2",
-                                     "semeval2010_task8_scorer-v1.2.pl")
-            process = subprocess.Popen(["perl", perl_path, prediction_path, truth_path], stdout=subprocess.PIPE)
-            for line in str(process.communicate()[0].decode("utf-8")).split("\\n"):
-                print(line)
-
 
 def main(_):
     eval()

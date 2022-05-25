@@ -102,14 +102,10 @@ def train():
             # Write vocabulary
             vocab_processor.save(os.path.join(out_dir, "vocab"))
 
-            # Initialize all variables
-            if not FLAGS.transfer_learn:
-              saver = tf.train.Saver(var_list=get_vars_by_name(['bi-lstm/bidirectional_rnn/fw/lstm_cell/kernel:0',
+            saver = tf.train.Saver(var_list=get_vars_by_name(['bi-lstm/bidirectional_rnn/fw/lstm_cell/kernel:0',
                 'bi-lstm/bidirectional_rnn/fw/lstm_cell/bias:0', 'bi-lstm/bidirectional_rnn/bw/lstm_cell/kernel:0',
                 'bi-lstm/bidirectional_rnn/bw/lstm_cell/bias:0', 'attention/u_omega:0', 'output/dense/kernel:0',
                 'output/dense/bias:0']))
-            else:
-              saver = tf.train.Saver()
            
             print(checkpoint_file)
             print("---RESTORING---")
@@ -177,13 +173,22 @@ def train():
                 # Evaluation
                 if step % FLAGS.evaluate_every == 0:
                     print("\nEvaluation:")
-                    feed_dict = {
-                        model.input_text: x_dev,
-                        model.input_y: y_dev,
-                        model.emb_dropout_keep_prob: 1.0,
-                        model.rnn_dropout_keep_prob: 1.0,
-                        model.dropout_keep_prob: 1.0
-                    }
+                    if FLAGS.transfer_learn:
+                        feed_dict = {
+                          input_text: x_dev,
+                          input_y: y_dev,
+                          emb_dropout_keep_prob: 1.0,
+                          rnn_dropout_keep_prob: 1.0,
+                          dropout_keep_prob: 1.0
+                      } 
+                    else:
+                      feed_dict = {
+                          model.input_text: x_dev,
+                          model.input_y: y_dev,
+                          model.emb_dropout_keep_prob: 1.0,
+                          model.rnn_dropout_keep_prob: 1.0,
+                          model.dropout_keep_prob: 1.0
+                      }
                     summaries, loss, accuracy, predictions = sess.run(
                         [dev_summary_op, model.loss, model.accuracy, model.predictions], feed_dict)
                     dev_summary_writer.add_summary(summaries, step)

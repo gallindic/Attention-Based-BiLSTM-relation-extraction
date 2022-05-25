@@ -48,10 +48,8 @@ def main(args):
         predictions.append(predicted)
         real_gt.append(relation)
 
-        print(correct / len(gt))
-
+    print(f'accuracy: {correct / len(gt)}')
     print(f'f1: {f1_score(predictions, real_gt, average="macro")}')
-    print(f'accuracy: {correct, len(gt)}')
 
 
 if __name__ == "__main__":
