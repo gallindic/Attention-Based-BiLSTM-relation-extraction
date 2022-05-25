@@ -72,7 +72,10 @@ def load_data_and_labels(path):
     print("max sentence length = {}\n".format(max_sentence_length))
 
     df = pd.DataFrame(data=data, columns=["id", "sentence", "relation"])
-    df['label'] = [utils.class2labelT[r] for r in df['relation']]
+    if FLAGS.mapped_labels:
+        df['label'] = [utils.class2label[r] for r in df['relation']]
+    else:
+        df['label'] = [utils.class2labelT[r] for r in df['relation']]
 
     # Text Data
     x_text = df['sentence'].tolist()
